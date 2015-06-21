@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/com.example.com.engineer4myanmar.rtrs.MainActivity/res/layout/activity_reservation.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/com.example.com.engineer4myanmar.rtrs.MainActivity" sel-end="411" sel-start="247" stamp="1434872163149" type="android.widget.LinearLayout"/>
+</session>
